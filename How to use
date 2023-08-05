@@ -1,0 +1,4 @@
+Hello, I'm Mr.Melu, I will tell you how to use my 'mini-programs',
+1.For the insta.py, you need to use command "pip install instaloader"
+2.For the ip.py, you need to use two commands "pip install folium" and "pip install geocoder"
+3.For the phonefinder.py you need to use command "pip install phonenumbers"
